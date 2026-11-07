@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.pooriaarab/benchmark-skateboard",
+  "name": "io.github.itsryanarmani/benchmark-skateboard",
   "description": "Score AI answers on skateboard trick rotations, projectile physics, landing orientation, and airtime feasibility.",
   "version": "0.2.0",
   "repository": {
